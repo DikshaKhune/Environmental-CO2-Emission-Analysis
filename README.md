@@ -2,26 +2,26 @@ This project provides a comprehensive analysis of global CO2 emissions, identify
 
 Key Features
 
-Emissions by Region and Sector
+1. Emissions by Region and Sector :
 Analyze CO2 emissions broken down by geographic regions and economic sectors, such as transportation, industry, and energy production.
 
-Yearly Trends
+2. Yearly Trends :
 Track the evolution of CO2 emissions over time, highlighting year-over-year increases or reductions.
 
-Comparative Analysis
+3. Comparative Analysis :
 Compare emissions between regions or industries to identify leaders and laggards in emission reductions.
 
-Impact Analysis
+4. Impact Analysis :
 Explore the influence of policies, regulations, and technologies on CO2 emissions across different sectors and regions.
 
-Interactive Visualizations
+5. Interactive Visualizations :
 Utilize dynamic dashboards that allow filtering by time periods, countries, and sectors for tailored insights.
 
 Objectives
 
-Identify key drivers of CO2 emissions across the globe.
-Highlight opportunities for reducing emissions by leveraging regional and sectoral data.
-Provide actionable insights for improving energy efficiency and reducing environmental impact.
+1.Identify key drivers of CO2 emissions across the globe.
+2.Highlight opportunities for reducing emissions by leveraging regional and sectoral data.
+3.Provide actionable insights for improving energy efficiency and reducing environmental impact.
 
 Tools & Technologies
 
