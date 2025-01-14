@@ -20,7 +20,9 @@ Utilize dynamic dashboards that allow filtering by time periods, countries, and 
 Objectives
 
 1.Identify key drivers of CO2 emissions across the globe.
+
 2.Highlight opportunities for reducing emissions by leveraging regional and sectoral data.
+
 3.Provide actionable insights for improving energy efficiency and reducing environmental impact.
 
 Tools & Technologies
