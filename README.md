@@ -1,6 +1,7 @@
 This project provides a comprehensive analysis of global CO2 emissions, identifying trends across regions and sectors. It aims to uncover the relationships between CO2 emissions, economic output, population growth, and energy efficiency, offering valuable insights for researchers, policymakers, and stakeholders.
 
 Key Features
+
 Emissions by Region and Sector
 Analyze CO2 emissions broken down by geographic regions and economic sectors, such as transportation, industry, and energy production.
 
@@ -17,9 +18,11 @@ Interactive Visualizations
 Utilize dynamic dashboards that allow filtering by time periods, countries, and sectors for tailored insights.
 
 Objectives
+
 Identify key drivers of CO2 emissions across the globe.
 Highlight opportunities for reducing emissions by leveraging regional and sectoral data.
 Provide actionable insights for improving energy efficiency and reducing environmental impact.
 
 Tools & Technologies
+
 Power BI
